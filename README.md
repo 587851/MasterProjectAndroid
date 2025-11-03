@@ -20,22 +20,22 @@ UI er bygget i **Jetpack Compose**.
 * [Data & persistens](#data--persistens)
 * [Tilganger (Health Connect)](#tilganger-health-connect)
 * [Feilsøking](#feilsøking)
-* [Videre arbeid / TODO](#videre-arbeid--todo)
 
 ---
 
 ## Skjermbilder
 
 ### Hovedskjerm
-
-### Hovedskjerm
+![Hovedskjerm](https://github.com/587851/MasterProjectAndroid/blob/master/hovedSkjermAndroid.png?raw=true)
 
 ### Innstillinger
+![Innstillinger](https://github.com/587851/MasterProjectAndroid/blob/master/innstillingsSkjermAndroid.png?raw=true)
 
 ### Historikk
+![Historikk](https://github.com/587851/MasterProjectAndroid/blob/master/historieSkjermAndroid.png?raw=true)
 
 ### Tillatelser
-
+![Tillatelser](https://github.com/587851/MasterProjectAndroid/blob/master/tillatelseSkjermAndroid.png?raw=true)
 
 ## Funksjoner
 
